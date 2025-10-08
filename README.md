@@ -53,7 +53,7 @@ This project was a valuable simulation of real-world interoperability challenges
 * Understanding the **limitations of your tools** early is crucial. We had to create custom Java actions to overcome Mendix's inability to parse the dynamic JSON keys from Firebase, which was an unexpected hurdle.
 
 ## Team Members
-* **David Galati**
+* David Galati
 * Emma Cañavate
 * Lars Klunder
 * Miguel De La Cruz
