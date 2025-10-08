@@ -60,4 +60,4 @@ This project was a valuable simulation of real-world interoperability challenges
 
 ## Project Deliverables
 * **[Final Report](./group%2025%20BPIL%20Final%20report.pdf)**: The complete project report detailing the case, design decisions, and implementation.
-* **[Final Presentation](./g_25_BPIL%20presentation.pptx)**: The presentation summarizing the project's key aspects and outcomes.
+* **[Final Presentation](./g_25_BPIL%20presentation.pdf)**: The presentation summarizing the project's key aspects and outcomes.
